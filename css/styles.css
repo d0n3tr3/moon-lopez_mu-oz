@@ -1,0 +1,43 @@
+body{
+    width: 1024;
+    height: 1200;
+    background-image: url(/img/moon.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+
+
+/* dlm we change the color, font, background and color of the header*/
+
+
+header{
+    background-color: rgb(23, 23, 104);
+    width: 100%;
+    height: 25%;
+}
+a{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    margin-left: 50%;
+    background-color: transparent;
+    border: transparent;
+    
+}
+
+.rectangulo{
+    width: 100px;
+    height: 50px;
+    background-color: blue transparent 60%;
+    margin-left: 50%;
+    margin-top: 50%;
+
+}
+
+footer{
+    background-color: rgb(23, 23, 104);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
